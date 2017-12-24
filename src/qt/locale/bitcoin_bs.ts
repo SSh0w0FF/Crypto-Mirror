@@ -14,8 +14,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Bitcoin Mirror</source>
+        <translation>Bitcoin Mirror</translation>
     </message>
     </context>
 <context>
@@ -156,8 +156,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Jezrga</translation>
+        <source>Bitcoin Mirror Core</source>
+        <translation>Bitcoin Mirror Jezrga</translation>
     </message>
     </context>
 </TS>
